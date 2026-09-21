@@ -2,7 +2,7 @@
 
 Plataforma full stack para centralizar a gestão de imóveis de temporada, clientes, reservas, contratos e pagamentos.
 
-URL DA DEMONSTRAÇÃO: https://gestao-casas-frontend.onrender.com/(Nota de homologação: Esta aplicação foi projetada seguindo o conceito Mobile-First, priorizando a experiência em dispositivos móveis. A interface adaptada para desktop está em fase de planejamento no roadmap do produto).
+URL DA DEMONSTRAÇÃO: https://gestao-casas-frontend.onrender.com/ (Nota de homologação: Esta aplicação foi projetada seguindo o conceito Mobile-First, priorizando a experiência em dispositivos móveis. A interface adaptada para desktop está em fase de planejamento no roadmap do produto).
 
 Acesso Cliente (Demonstração): carlos@email.com | Senha: Senha@123 Administrador (Demonstração): admin@gestaocasas.com | Senha: Senha@123
 
